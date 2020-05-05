@@ -1,0 +1,13 @@
+/* TAG Selectors */
+h1 {
+  /* margin-top: 0px; */
+  margin: 0px;
+}
+body {
+  margin: 0px;
+}
+
+ /* CLASS Selectors  */
+.first_div {
+  background-color: #00a8cc;
+}
