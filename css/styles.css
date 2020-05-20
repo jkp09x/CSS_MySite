@@ -90,7 +90,7 @@ p {
 
 .img_cloud_top{
   display: block;
-  position: absolute;
+  position: fixed;
   margin-top: 10px;
   right: 3rem;
   margin: 20px auto;
@@ -98,7 +98,7 @@ p {
 
 .img_cloud_bottom {
   display: block;
-  position: absolute;
+  position: fixed;
   left: 3rem;
   margin: 50px auto;
 }
