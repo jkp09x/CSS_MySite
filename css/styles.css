@@ -73,6 +73,8 @@ p {
 
 .font_cursive {
   font-family: 'Sacramento', cursive;
+  padding-top: 50px;
+
 }
 
 .footer-link {
@@ -91,12 +93,14 @@ p {
   position: absolute;
   margin-top: 10px;
   right: 3rem;
+  margin: 20px auto;
 }
 
 .img_cloud_bottom {
   display: block;
   position: absolute;
   left: 3rem;
+  margin: 50px auto;
 }
 
 .img_mountain {
