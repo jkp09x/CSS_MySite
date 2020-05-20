@@ -1,13 +1,155 @@
 /* TAG Selectors */
-h1 {
-  /* margin-top: 0px; */
-  margin: 0px;
-}
+/* a {
+  color: #11999E;
+} */
 body {
-  margin: 0px;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  position: relative;
 }
 
- /* CLASS Selectors  */
-.first_div {
-  background-color: #00a8cc;
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 90px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-width: 10px;
+  width: 10%;
+  border-color: #EAF6F6;
+}
+
+/* CLASS SELECTORS */
+.button_contactme {
+  background-color: #66BFBF;
+  border-radius: 5px;
+  border-width: 2em;
+  color: #11999E;
+  cursor: pointer;
+  display: inline-block;
+  font-size: .8rem;
+  padding: .75em 2em .75em 2em;
+  text-align: center;
+  text-shadow: .1rem .1rem .5rem #FFFFFF;
+  text-decoration: none;
+}
+
+.cont_bottom {
+  background-color: #66BFBF;
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: .75rem;
+}
+
+.cont_middle {
+  color: #40514E;
+  margin-bottom: 30px;
+}
+
+.cont_top {
+  background-color: #EAF6F6;
+  line-height: 2;
+  position: relative;
+  text-align: center;
+}
+
+.font_cursive {
+  font-family: 'Sacramento', cursive;
+}
+
+.footer-link {
+  color: #11999E;
+  margin-right: 2rem;
+  text-decoration: none;
+  text-shadow: 1px 1px 30px #EAF6F6;
+}
+
+.h3_skill {
+  margin: 0;
+}
+
+.img_cloud_top{
+  display: block;
+  position: absolute;
+  margin-top: 10px;
+  right: 20rem;
+}
+
+.img_cloud_bottom {
+  display: block;
+  position: absolute;
+  left: 20rem;
+}
+
+.img_mountain {
+  display: block;
+  margin: 0 auto;
+}
+
+.img_skill{
+  width: 12.5%;
+}
+
+.img_skill_cpp {
+  /* width: 15%; */
+  float: left;
+  margin-right: 20px;
+}
+
+.img_skill_python {
+  float: right;
+  margin-left: 20px;
+}
+
+.img_profile{
+  margin-top: 10px;
+}
+
+.p_copyright{
+  color: #EAF6F6;
+}
+
+ .p_header{
+   display: inline-block;
+   margin: 1rem .5rem 0 1rem;
+ }
+
+.p_profile{
+  display: inline-block;
+  width: 30%;
+  margin: 0 auto o auto;
+}
+
+.p_skill {
+  margin: 0;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.skill-row2 {
+  text-align: right;
+}
+
+.subtitle {
+  font-weight: normal;
 }
