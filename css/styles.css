@@ -61,6 +61,7 @@ p {
 }
 
 .cont_middle {
+  padding-top: 50px;
   margin-bottom: 30px;
 }
 
@@ -89,16 +90,16 @@ p {
 }
 
 .img_cloud_top{
-  display: block;
-  position: fixed;
-  margin-top: 10px;
+  display: inline-block;
+  position: absolute;
+  /* margin-top: 10px; */
   right: 3rem;
   margin: 20px auto;
 }
 
 .img_cloud_bottom {
-  display: block;
-  position: fixed;
+  display: inline-block;
+  position: absolute;
   left: 3rem;
   margin: 50px auto;
 }
