@@ -28,10 +28,9 @@ h3 {
 
 hr {
   border-style: none;
-  border-top: dotted;
-  border-width: 10px;
+  border-top: dotted #EAF6F6 6px;
   width: 10%;
-  border-color: #EAF6F6;
+  margin: 100px auto;
 }
 
 p {
